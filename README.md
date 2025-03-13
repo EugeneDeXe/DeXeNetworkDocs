@@ -1,6 +1,6 @@
 # Architecture Overview
 
-<figure><img src=".gitbook/assets/diagram (5).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 1.svg" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 

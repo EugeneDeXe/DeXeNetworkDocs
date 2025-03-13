@@ -63,10 +63,11 @@
 
 ## contracts deployments
 
-* [Prod (BSC)](contracts-deployments/prod-bsc.md)
-* [Stage (BSC Testnet)](contracts-deployments/stage-bsc-testnet.md)
+* [Prod (BSC/ETH)](contracts-deployments/prod-bsc-eth.md)
+* [Stage (BSC Testnet/Sepolia)](contracts-deployments/stage-bsc-testnet-sepolia.md)
 
 ## subgraphs deployments
 
 * [Prod (BSC)](subgraphs-deployments/prod-bsc.md)
+* [Prod (ETH)](subgraphs-deployments/prod-eth.md)
 * [Stage (BSC Testnet)](subgraphs-deployments/stage-bsc-testnet.md)
